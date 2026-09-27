@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["353F3DGCTM.com.starkconnect.GlassesBridge"],
+        "components": [
+          { "/": "/open", "comment": "Open GlassesBridge" }
+        ]
+      }
+    ]
+  }
+}
